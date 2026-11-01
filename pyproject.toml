@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kymocore"
+version = "0.1.0"
+description = "Send measurements from Python to KymoStudio (Kymotrace binary protocol)"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+authors = [{ name = "Christof Seidel" }]
+keywords = ["kymotrace", "kymostudio", "telemetry", "plotting", "mqtt", "serial"]
+
+[project.optional-dependencies]
+serial = ["pyserial>=3.5"]
+mqtt = ["paho-mqtt>=2.0"]
+test = ["pytest", "pyserial>=3.5", "paho-mqtt>=2.0"]
+
+[project.urls]
+Homepage = "https://kymotrace.de"
