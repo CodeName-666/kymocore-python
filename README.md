@@ -2,7 +2,7 @@
 
 Send measurements from a Python script (Raspberry Pi, test bench, PC simulation)
 to [KymoStudio](https://kymotrace.de) with the same binary protocol as the
-KymoCore firmware library ([PROTOCOL.md](https://github.com/CodeName-666/kymocore/blob/main/PROTOCOL.md), v6.2).
+KymoCore firmware library ([PROTOCOL.md](https://github.com/KymoTrace/kymocore/blob/main/PROTOCOL.md), v6.2).
 Firmware and PC script share one KymoStudio time axis.
 
 ```bash
