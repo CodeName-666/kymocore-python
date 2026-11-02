@@ -28,6 +28,6 @@ test = ["pytest", "pyserial>=3.5", "paho-mqtt>=2.0"]
 
 [project.urls]
 Homepage = "https://kymotrace.de"
-Source = "https://github.com/CodeName-666/kymocore-python"
-Issues = "https://github.com/CodeName-666/kymocore-python/issues"
-Protocol = "https://github.com/CodeName-666/kymocore/blob/main/PROTOCOL.md"
+Source = "https://github.com/KymoTrace/kymocore-python"
+Issues = "https://github.com/KymoTrace/kymocore-python/issues"
+Protocol = "https://github.com/KymoTrace/kymocore/blob/main/PROTOCOL.md"
