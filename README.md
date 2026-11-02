@@ -31,7 +31,7 @@ Not every signal comes from a microcontroller. A Raspberry Pi reads sensors,
 a test bench script drives a power supply, a simulation computes a plant model.
 Printing those values or writing CSV files means looking at them **afterwards**.
 
-**kymocore** sends them to [KymoStudio](https://kymotrace.de/#download) while
+**kymocore** sends them to [KymoStudio](https://kymotrace.de/download.html) while
 they happen, with the same compact binary frames (**9 to 21 bytes**) that the
 [KymoCore](https://github.com/KymoTrace/kymocore) firmware library uses. Firmware
 and PC script appear side by side in one KymoStudio workbench: as curves,
@@ -121,7 +121,7 @@ Microsecond timestamps need KymoStudio 2.5 or newer.
 | [KymoCore](https://github.com/KymoTrace/kymocore) | firmware library: capture and send measurements on the microcontroller |
 | **[kymocore for Python](https://github.com/KymoTrace/kymocore-python)** | this package: send measurements from Python |
 | [KymoProbe](https://github.com/KymoTrace/kymoprobe) | firmware and hardware examples for ESP32, Arduino and STM32 |
-| [KymoStudio](https://kymotrace.de/#download) | desktop app: receive, display, analyse, export |
+| [KymoStudio](https://kymotrace.de/download.html) | desktop app: receive, display, analyse, export |
 
 ## Documentation
 
