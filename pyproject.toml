@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Send measurements from Python to KymoStudio (Kymotrace binary protocol)"
 readme = "README.md"
 license = "MIT"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 authors = [{ name = "Christof Seidel" }]
 keywords = ["kymotrace", "kymostudio", "telemetry", "plotting", "mqtt", "serial"]
 classifiers = [
