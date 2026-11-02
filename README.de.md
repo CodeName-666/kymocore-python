@@ -32,7 +32,7 @@ Sensoren, ein Prüfstandsskript steuert ein Netzteil, eine Simulation rechnet ei
 Streckenmodell. Wer diese Werte ausgibt oder in CSV-Dateien schreibt, sieht sie
 erst **hinterher**.
 
-**kymocore** schickt sie an [KymoStudio](https://kymotrace.de/de/#download),
+**kymocore** schickt sie an [KymoStudio](https://kymotrace.de/de/download.html),
 während sie entstehen, mit denselben kompakten Binär-Frames (**9 bis 21 Byte**)
 wie die Firmware-Library [KymoCore](https://github.com/KymoTrace/kymocore).
 Firmware und PC-Skript erscheinen nebeneinander in einer KymoStudio-Arbeitsfläche:
@@ -122,7 +122,7 @@ Mikrosekunden-Zeitstempel brauchen KymoStudio 2.5 oder neuer.
 | [KymoCore](https://github.com/KymoTrace/kymocore) | Firmware-Library: Messwerte auf dem Mikrocontroller erfassen und senden |
 | **[kymocore für Python](https://github.com/KymoTrace/kymocore-python)** | dieses Paket: Messwerte aus Python senden |
 | [KymoProbe](https://github.com/KymoTrace/kymoprobe) | Firmware- und Hardware-Beispiele für ESP32, Arduino und STM32 |
-| [KymoStudio](https://kymotrace.de/de/#download) | Desktop-App: empfangen, anzeigen, analysieren, exportieren |
+| [KymoStudio](https://kymotrace.de/de/download.html) | Desktop-App: empfangen, anzeigen, analysieren, exportieren |
 
 ## Dokumentation
 
