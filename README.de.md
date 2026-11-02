@@ -19,7 +19,7 @@
 <p align="center">
   <img alt="Version 0.1.0" src="https://img.shields.io/badge/version-0.1.0-7C5CFF">
   <img alt="Lizenz MIT" src="https://img.shields.io/badge/Lizenz-MIT-15123A">
-  <img alt="Python 3.9+" src="https://img.shields.io/badge/Python-3.9%2B-A78BFA">
+  <img alt="Python 3.10+" src="https://img.shields.io/badge/Python-3.10%2B-A78BFA">
   <img alt="Transporte" src="https://img.shields.io/badge/UDP%20%C2%B7%20TCP%20%C2%B7%20Seriell%20%C2%B7%20MQTT-FDE047">
 </p>
 
