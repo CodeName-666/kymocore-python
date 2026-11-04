@@ -117,6 +117,8 @@ Mikrosekunden-Zeitstempel brauchen KymoStudio 2.5 oder neuer.
 
 ## Teil von Kymotrace
 
+![Wie KymoCore, KymoProbe, KymoStudio und kymocore für Python zusammenspielen](https://raw.githubusercontent.com/KymoTrace/kymocore-python/main/docs/images/system-de.svg)
+
 | Projekt | Rolle |
 |---|---|
 | [KymoCore](https://github.com/KymoTrace/kymocore) | Firmware-Library: Messwerte auf dem Mikrocontroller erfassen und senden |

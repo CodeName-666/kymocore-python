@@ -116,6 +116,8 @@ Microsecond timestamps need KymoStudio 2.5 or newer.
 
 ## Part of Kymotrace
 
+![How KymoCore, KymoProbe, KymoStudio and kymocore for Python fit together](https://raw.githubusercontent.com/KymoTrace/kymocore-python/main/docs/images/system-en.svg)
+
 | Project | Role |
 |---|---|
 | [KymoCore](https://github.com/KymoTrace/kymocore) | firmware library: capture and send measurements on the microcontroller |
